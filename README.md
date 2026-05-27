@@ -180,6 +180,8 @@ regras_associacao.csv
 ## 👥 Equipe
 
 Projeto desenvolvido para a disciplina de **Mineração de Dados** — 2025.
+Felippe Santuzzi e Paulo Algusto da Fonceseca
+Professora: Angela Locatteli Godoy - Fatec Rio Claro SP
 
 ---
 
